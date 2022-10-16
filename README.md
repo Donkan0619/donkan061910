@@ -1,1 +1,1 @@
-gitu clone https://github.com/Donkan0619/donkan061910
+git clone https://github.com/Donkan0619/donkan061910
